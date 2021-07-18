@@ -65,6 +65,19 @@ const data = [
       "https://twitter.com/msamik7",
     ],
   },
+  {
+    name: "Vishnuraj Saravanan",
+    role: "AI Undergrad",
+    image: "https://avatars.githubusercontent.com/u/76027763?s=400&u=9a2f1fb72f5a21c3313e5d5c0e7b35a6bd693107&v=4",
+    skills: ['JS', 'react', 'CSS', 'python','java','HTML'],
+    link: [
+      "https://github.com/vishnu02-droid",
+      "https://www.linkedin.com/in/vishnuraj-saravanan-7969641bb/",
+      "https://twitter.com/vishnu_harry02",
+    ],
+  }
+
+
 ];
 
 export default data;
